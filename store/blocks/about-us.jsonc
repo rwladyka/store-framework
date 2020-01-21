@@ -85,13 +85,13 @@
   },
   "tab-content.item#home2": {
     "children": [
-      "iframe#home2"
+      "iframe"
     ],
     "props": {
       "tabId": "instagram"
     }
   },
-  "iframe#home2": {
+  "iframe": {
     "props": {
       "src": "https://www.instagram.com/p/B37Zfd6FobU/embed",
       "width": 800,
